@@ -1,3 +1,4 @@
+# Ring Buffer time. 
 class RingBuffer:
     def __init__(self, capacity):
         pass
